@@ -1,5 +1,8 @@
+import Header from "./components/Header";
+import MainSite from "./components/MainSite";
+
 const App = () => {
-  return <div>Hello world!</div>;
+  return <MainSite/>
 };
 
 export default App;
